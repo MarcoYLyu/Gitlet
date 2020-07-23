@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="javalib">
+    <CLASSES>
+<<<<<<< HEAD
+      <root url="file://$PROJECT_DIR$/../../su18-MarcoYLyu/library-su18/javalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../su18-MarcoYLyu/library-su18/javalib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../su18-MarcoYLyu/library-su18/javalib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../su18-MarcoYLyu/library-su18/javalib" recursive="false" type="SOURCES" />
+=======
+      <root url="file://$PROJECT_DIR$/../../../../cs61bl/su18-michaelhuang20/library-su18/javalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../cs61bl/su18-michaelhuang20/library-su18/javalib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../cs61bl/su18-michaelhuang20/library-su18/javalib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../cs61bl/su18-michaelhuang20/library-su18/javalib" recursive="false" type="SOURCES" />
+>>>>>>> 8f7c349d76427902c440d84ac4007b8432869b2f
+  </library>
+</component>
